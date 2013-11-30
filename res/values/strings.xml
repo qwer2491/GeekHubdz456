@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="app_display">Display Activity</string>
+    <string name="service_name">my_service</string>
+    <string name="item1">Stop Service</string>
+</resources>
